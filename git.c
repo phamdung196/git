@@ -1,5 +1,9 @@
 #define USE_THE_REPOSITORY_VARIABLE
 
+/*
+ * test fork
+ */
+
 #include "builtin.h"
 #include "config.h"
 #include "environment.h"
